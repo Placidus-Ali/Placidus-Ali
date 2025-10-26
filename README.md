@@ -70,18 +70,24 @@ List 8-12
 ### 🚀 Projects
 Showcasing hands-on work that demonstrates my data science skills. Check out my pinned repos for code!
 
-- **Heart Disease Prediction**  
+- **Heart Disease Prediction**
+- ![heart_disease](https://github.com/user-attachments/assets/a6172ec1-d8c8-4292-bf58-5b0f7b0ec6c0)
+
   *Repo Link: https://github.com/Placidus-Ali/heart_disease*  
   Built an end-to-end ML pipeline using scikit-learn to predict heart disease risk from UCI dataset. Achieved 85% accuracy with random forests; visualized insights via Seaborn heatmaps.  
   *Tech:* Python, Jupyter, Streamlit
 
 - **Crop Yield Pridiction**
 - ![crop yield](https://github.com/user-attachments/assets/36a1bd3f-26a7-4ef0-b880-36337dc7c16c)
+- 
   *Repo Link: https://github.com/Placidus-Ali/Crop_yield_prediction*  
   Built an ML project using scikit-learn to predict crop yield from kaggle dataset. Achieved 95% accuracy with random forest regressor.  
   *Tech:* Python, Jupyter, Streamlit.  
   
-- **Weather Temperature Prediction**  
+- **Weather Temperature
+- ![weather forecasting](https://github.com/user-attachments/assets/f46bc829-41c3-4524-808f-c02132d42920)
+ Prediction**
+
   *Repo Link: https://github.com/Placidus-Ali/weather_prediction*  
   Built an ML project using scikit-learn to predict weather temperature using different weather features from kaggle dataset. Achieved 93% accuracy with random forest regressor.  
   *Tech:* Python, Jupyter, Streamlit. 
