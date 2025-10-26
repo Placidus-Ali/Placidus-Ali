@@ -43,67 +43,59 @@ Proficient in tools that power data-driven decisions. Here's my tech stack:
 List 8-12 
 
 ### 🎓 Education
-- **Bachelor's in [Your Degree, e.g., Computer Science]**  
-  [University Name], [Grad Year, e.g., 2023]  
-  *Relevant Coursework:* Data Structures, Statistics, Machine Learning.  
-  *GPA:* [If strong, e.g., 3.8/4.0] | *Thesis:* [Brief, e.g., "Predictive Modeling for Heart Disease Using Logistic Regression"].
+- **HND in Agricultural and Bio-Environmental Engineering**  
+  Imo State Polytechnic, 3.70/4.0, 2018 
 
-- **Ongoing/Additional:** [e.g., DeepTech_Ready Upskilling Program (AI/ML Track), 2025 – Cohort 1 Facilitator].
+- **Ongoing/Additional:** DeepTech_Ready Upskilling Program (ADAP & DSML Track), 2025 – Facilitator].
 
-*(Bullet 1-3 entries. Link to LinkedIn or transcripts if public. Tie to data science to show foundation.)*
 
 ### 📜 Certifications
-- **Google Data Analytics Professional Certificate** (Coursera, 2024) – Focused on SQL, R, and visualization for business insights.  
-- **IBM Data Science Professional Certificate** (Coursera, 2025) – Covered Python, ML algorithms, and capstone projects.  
+- **Stutern Certificate** (2024) – Focused on Python for Data Science and ML, SQL for Database Management.  
+- **ALX Certificate** (2025) – Covered Python, ML algorithms, and capstone projects.  
 - **[Another, e.g., AWS Certified Machine Learning – Specialty]** (2025) – Cloud-based model deployment.
 
-*(List 3-5 with issuing org, date, and a 1-sentence value-add. Embed badges: e.g., ![Google Cert](https://images.genius.com/...). If none, start with free ones like freeCodeCamp.)*
 
 ### 💼 Work Experience
-- **Data Science Intern / Facilitator**  
-  [Company/Program, e.g., DeepTech_Ready Upskilling Program], [Dates, e.g., May–Sep 2025]  
-  *Key Achievements:* Mentored 8 learners in AI/ML and Advanced Data Analytics; covered curriculum on model tuning and visualization; addressed challenges like imbalanced datasets via oversampling techniques.  
-  *Impact:* Helped cohort build portfolios with Streamlit deployments.
+- **Data Science Facilitator**  
+  Codeant Technology Hub, 2025 - present  
+  *Key Achievements:* Mentored 100+ learners in AI/ML and Advanced Data Analytics; covered curriculum on model tuning and visualization; model building and deployment on streamlit.  
+  *Impact:* Helped cohort build portfolios on LinkedIn and Streamlit.
 
-- **[Previous Role, e.g., Junior Analyst]**  
-  [Company], [Dates]  
-  *Responsibilities:* Analyzed datasets for [e.g., employee retention]; built dashboards reducing query time by 40%.  
-  *Tools:* Python, Pandas, SQL.
-
-*(Reverse-chronological, 2-4 bullets. Quantify wins: "Reduced errors by X%." If entry-level, emphasize freelance/volunteer work or projects as "experience.")*
+- **Data Scientist, M&E Associate**  
+  AgroHive, Dec 2023 - Jan 2025 
+  *Responsibilities:*
+  Evaluation Framework & Target Setting: Designing and implementing a structured Monitoring, Evaluation and Learning (MEL) framework for AgroHive. Setting of quarterly MEL targets for the organization.
+  Data Collection & Analysis: Updating and maintaining AgroHive's databases, performing regular data analysis.
+  *Tools:* Python, Pandas, SQL Google Sheet and Form.
 
 ### 🚀 Projects
 Showcasing hands-on work that demonstrates my data science skills. Check out my pinned repos for code!
 
-- **[Project 1, e.g., Heart Disease Prediction Dashboard]**  
-  *[Repo Link: github.com/Placidus-Ali/intermediate_projects (link to specific file/folder)]*  
+- **Heart Disease Prediction**  
+  *[Repo Link: (https://github.com/Placidus-Ali/heart_disease)]*  
   Built an end-to-end ML pipeline using scikit-learn to predict heart disease risk from UCI dataset. Achieved 85% accuracy with random forests; visualized insights via Seaborn heatmaps.  
-  *Tech:* Python, Jupyter, Streamlit (deployed demo).  
-  *[Add screenshot/GIF: ![Demo](your-image-url.png)]*  
-  *Learnings:* Handled class imbalance with SMOTE; optimized for deployment.
+  *Tech:* Python, Jupyter, Streamlit
 
-- **[Project 2, e.g., Crypto Price Tracker]**  
-  *[Repo Link: github.com/Placidus-Ali/Stutern]*  
-  Analyzed historical crypto data (via CoinGecko API) for trend forecasting; created interactive Plotly charts.  
-  *Tech:* Pandas, Prophet for time-series.  
-  *Impact:* Backtested strategies yielding 15% simulated ROI.  
-  *[Screenshot/GIF]*
+- **Crop Yield Pridiction**  
+  *[Repo Link: (https://github.com/Placidus-Ali/Crop_yield_prediction)]*  
+  Built an ML project using scikit-learn to predict crop yield from kaggle dataset. Achieved 95% accuracy with random forest regressor.  
+  *Tech:* Python, Jupyter, Streamlit.  
+  
+- **Weather Temperature Prediction**  
+  *[Repo Link: (https://github.com/Placidus-Ali/weather_prediction)]*  
+  Built an ML project using scikit-learn to predict weather temperature using different weather features from kaggle dataset. Achieved 93% accuracy with random forest regressor.  
+  *Tech:* Python, Jupyter, Streamlit. 
 
-- **[Project 3, e.g., Employee Retention Model]**  
-  [Brief description, tech, metrics, learnings].  
-  *[Link + Visual]*
-
-*(3-6 projects: Problem > Solution > Results > Tech > Link. Prioritize data science ones from your repos. Add "View All" link to a projects repo if needed.)*
 
 ### 📫 Contact Me
 Let's chat about data, collabs, or coffee—I'm always open to opportunities!  
-- 📧 Email: [your.email@example.com]  
-- 🔗 LinkedIn: [linkedin.com/in/placidus-ali]  
-- 🐦 X/Twitter: [@yourhandle]  
-- 🌐 Portfolio: [your-site.com or another GitHub repo]  
+- 📧 Email: placidusali@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/placidus-chukwuebuka-ali-data-scientist  
+- 🐦 Twitter: https://x.com/AliPlacidus  
+- 🌐 Portfolio: https://placidusali.my.canva.site/placidus-ali
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Placidus-Ali&label=Profile%20views&color=0e75b6&style=flat" alt="Views Counter" />
 </div>
 
-*Thanks for visiting! ⭐ Star this repo if it sparks ideas. Built with ❤️ using Markdown.*
+*Thanks for visiting! ⭐ Star this repo if it sparks ideas. Built with ❤️*
