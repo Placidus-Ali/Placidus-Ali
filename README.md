@@ -52,7 +52,6 @@ List 8-12
 ### 📜 Certifications
 - **Stutern Certificate** (2024) – Focused on Python for Data Science and ML, SQL for Database Management.  
 - **ALX Certificate** (2025) – Covered Python, ML algorithms, and capstone projects.  
-- **[Another, e.g., AWS Certified Machine Learning – Specialty]** (2025) – Cloud-based model deployment.
 
 
 ### 💼 Work Experience
@@ -62,7 +61,7 @@ List 8-12
   *Impact:* Helped cohort build portfolios on LinkedIn and Streamlit.
 
 - **Data Scientist, M&E Associate**  
-  AgroHive, Dec 2023 - Jan 2025 
+  AgroHive, Dec 2023 - Jan 2025
   *Responsibilities:*
   Evaluation Framework & Target Setting: Designing and implementing a structured Monitoring, Evaluation and Learning (MEL) framework for AgroHive. Setting of quarterly MEL targets for the organization.
   Data Collection & Analysis: Updating and maintaining AgroHive's databases, performing regular data analysis.
@@ -72,30 +71,31 @@ List 8-12
 Showcasing hands-on work that demonstrates my data science skills. Check out my pinned repos for code!
 
 - **Heart Disease Prediction**  
-  *[Repo Link: (https://github.com/Placidus-Ali/heart_disease)]*  
+  *Repo Link: https://github.com/Placidus-Ali/heart_disease*  
   Built an end-to-end ML pipeline using scikit-learn to predict heart disease risk from UCI dataset. Achieved 85% accuracy with random forests; visualized insights via Seaborn heatmaps.  
   *Tech:* Python, Jupyter, Streamlit
 
-- **Crop Yield Pridiction**  
-  *[Repo Link: (https://github.com/Placidus-Ali/Crop_yield_prediction)]*  
+- **Crop Yield Pridiction**
+- ![crop yield](https://github.com/user-attachments/assets/36a1bd3f-26a7-4ef0-b880-36337dc7c16c)
+  *Repo Link: https://github.com/Placidus-Ali/Crop_yield_prediction*  
   Built an ML project using scikit-learn to predict crop yield from kaggle dataset. Achieved 95% accuracy with random forest regressor.  
   *Tech:* Python, Jupyter, Streamlit.  
   
 - **Weather Temperature Prediction**  
-  *[Repo Link: (https://github.com/Placidus-Ali/weather_prediction)]*  
+  *Repo Link: https://github.com/Placidus-Ali/weather_prediction*  
   Built an ML project using scikit-learn to predict weather temperature using different weather features from kaggle dataset. Achieved 93% accuracy with random forest regressor.  
   *Tech:* Python, Jupyter, Streamlit. 
 
 
 ### 📫 Contact Me
-Let's chat about data, collabs, or coffee—I'm always open to opportunities!  
+Let's chat about data or collabs - I'm always open to opportunities!  
 - 📧 Email: placidusali@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/placidus-chukwuebuka-ali-data-scientist  
 - 🐦 Twitter: https://x.com/AliPlacidus  
 - 🌐 Portfolio: https://placidusali.my.canva.site/placidus-ali
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Placidus-Ali&label=Profile%20views&color=0e75b6&style=flat" alt="Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Placidus-Ali&label=Profile%198views&color=0e75b6&style=flat" alt="Views Counter" />
 </div>
 
 *Thanks for visiting! ⭐ Star this repo if it sparks ideas. Built with ❤️*
