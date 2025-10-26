@@ -1,7 +1,5 @@
 <div align="center">
-  ![Ebuka png](https://github.com/user-attachments/assets/68e46bc6-3362-43e9-aed9-3973851a049a)
-
-  <h1>👋 Hi, I'm Placidus Chukwuebuka Ali</h1>
+   <h1>👋 Hi, I'm Placidus Chukwuebuka Ali</h1>
   
   <!-- Quick tagline -->
   <p>A passionate <strong>Data Science Enthusiast</strong> turning data into insights. Currently building ML models and exploring AI for real-world impact. Let's connect!</p>
@@ -16,22 +14,33 @@
 ---
 
 ### 📖 About Me
-I'm a dedicated data science learner from [Your Location, e.g., Nigeria], with a knack for uncovering patterns in messy data. My journey started with [brief hook, e.g., "a fascination for how algorithms can predict trends in crypto trading"]. Outside code, I enjoy [personal touch, e.g., "hiking, reading sci-fi, and mentoring up-and-coming devs"]. I'm always up for collaborating on open-source projects—let's solve problems together!
-
-*(Tip: Keep this 3-5 sentences. Add a fun fact to humanize it.)*
+I'm a dedicated data science learner from Imo State, Nigeria, with a knack for uncovering patterns in messy data. My journey started with Stutern an EduTech Hub in 2022. Outside code, I enjoy watching and playing football. I'm always up for collaborating on open-source projects—let's solve problems together!
 
 ### 🛠️ Skills
 Proficient in tools that power data-driven decisions. Here's my tech stack:
 
 | Category          | Tools & Frameworks                  |
 |-------------------|-------------------------------------|
-| **Programming**   | Python, R, SQL                      |
+| **Programming**   | Python, SQL                      |
 | **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn  |
 | **Machine Learning** | Scikit-learn, TensorFlow, PyTorch |
-| **Visualization** | Tableau, Power BI, Plotly           |
+| **Visualization** | MS Excel, Power BI           |
 | **Other**         | Git, Jupyter Notebooks, AWS Basics  |
 
-*(Add badges for flair: e.g., ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white). List 8-12 skills max—focus on data science strengths from your repos.)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0B6623?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+List 8-12 
 
 ### 🎓 Education
 - **Bachelor's in [Your Degree, e.g., Computer Science]**  
