@@ -79,15 +79,14 @@ Showcasing hands-on work that demonstrates my data science skills. Check out my 
 
 - **Crop Yield Pridiction**
 - ![crop yield](https://github.com/user-attachments/assets/36a1bd3f-26a7-4ef0-b880-36337dc7c16c)
-- 
+  
   *Repo Link: https://github.com/Placidus-Ali/Crop_yield_prediction*  
   Built an ML project using scikit-learn to predict crop yield from kaggle dataset. Achieved 95% accuracy with random forest regressor.  
   *Tech:* Python, Jupyter, Streamlit.  
   
-- **Weather Temperature
+- **Weather Temperature Prediction**
 - ![weather forecasting](https://github.com/user-attachments/assets/f46bc829-41c3-4524-808f-c02132d42920)
- Prediction**
-
+ 
   *Repo Link: https://github.com/Placidus-Ali/weather_prediction*  
   Built an ML project using scikit-learn to predict weather temperature using different weather features from kaggle dataset. Achieved 93% accuracy with random forest regressor.  
   *Tech:* Python, Jupyter, Streamlit. 
