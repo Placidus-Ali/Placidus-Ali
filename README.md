@@ -1,7 +1,6 @@
 <div align="center">
-  <!-- Profile pic and header for visual hook -->
-  <img src="https://x.com/AliPlacidus/photo" />
-  
+  ![Ebuka png](https://github.com/user-attachments/assets/68e46bc6-3362-43e9-aed9-3973851a049a)
+
   <h1>👋 Hi, I'm Placidus Chukwuebuka Ali</h1>
   
   <!-- Quick tagline -->
