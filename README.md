@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile pic and header for visual hook -->
-  <img src="https://[your-image-url.jpg" alt="Placidus Ali Profile" width="150](https://x.com/AliPlacidus/photo)" />
+  <img src="https://x.com/AliPlacidus/photo" />
   
   <h1>👋 Hi, I'm Placidus Chukwuebuka Ali</h1>
   
