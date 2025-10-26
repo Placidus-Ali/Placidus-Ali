@@ -1,7 +1,9 @@
 <div align="center">
    <h1>👋 Hi, I'm Placidus Chukwuebuka Ali</h1>
+
   
-  <!-- Quick tagline -->
+---
+
   <p>A passionate <strong>Data Science Enthusiast</strong> turning data into insights. Currently building ML models and exploring AI for real-world impact. Let's connect!</p>
 </div>
 
@@ -11,10 +13,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Placidus-Ali&theme=radical" alt="Streak stats" />
 </div>
 
+
 ---
 
 ### 📖 About Me
 I'm a dedicated data science learner from Imo State, Nigeria, with a knack for uncovering patterns in messy data. My journey started with Stutern an EduTech Hub in 2022. Outside code, I enjoy watching and playing football. I'm always up for collaborating on open-source projects—let's solve problems together!
+
+
+---
 
 ### 🛠️ Skills
 Proficient in tools that power data-driven decisions. Here's my tech stack:
@@ -40,7 +46,9 @@ Proficient in tools that power data-driven decisions. Here's my tech stack:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-List 8-12 
+
+ 
+---
 
 ### 🎓 Education
 - **HND in Agricultural and Bio-Environmental Engineering**  
@@ -49,10 +57,13 @@ List 8-12
 - **Ongoing/Additional:** DeepTech_Ready Upskilling Program (ADAP & DSML Track), 2025 – Facilitator].
 
 
+---
 ### 📜 Certifications
 - **Stutern Certificate** (2024) – Focused on Python for Data Science and ML, SQL for Database Management.  
 - **ALX Certificate** (2025) – Covered Python, ML algorithms, and capstone projects.  
 
+
+---
 
 ### 💼 Work Experience
 - **Data Science Facilitator**  
@@ -67,8 +78,12 @@ List 8-12
   Data Collection & Analysis: Updating and maintaining AgroHive's databases, performing regular data analysis.
   *Tools:* Python, Pandas, SQL Google Sheet and Form.
 
+
+---
+
 ### 🚀 Projects
 Showcasing hands-on work that demonstrates my data science skills. Check out my pinned repos for code!
+
 
 - **Heart Disease Prediction**
 - ![heart_disease](https://github.com/user-attachments/assets/a6172ec1-d8c8-4292-bf58-5b0f7b0ec6c0)
@@ -77,6 +92,7 @@ Showcasing hands-on work that demonstrates my data science skills. Check out my 
   Built an end-to-end ML pipeline using scikit-learn to predict heart disease risk from UCI dataset. Achieved 85% accuracy with random forests; visualized insights via Seaborn heatmaps.  
   *Tech:* Python, Jupyter, Streamlit
 
+
 - **Crop Yield Pridiction**
 - ![crop yield](https://github.com/user-attachments/assets/36a1bd3f-26a7-4ef0-b880-36337dc7c16c)
   
@@ -84,6 +100,7 @@ Showcasing hands-on work that demonstrates my data science skills. Check out my 
   Built an ML project using scikit-learn to predict crop yield from kaggle dataset. Achieved 95% accuracy with random forest regressor.  
   *Tech:* Python, Jupyter, Streamlit.  
   
+
 - **Weather Temperature Prediction**
 - ![weather forecasting](https://github.com/user-attachments/assets/f46bc829-41c3-4524-808f-c02132d42920)
  
@@ -91,6 +108,8 @@ Showcasing hands-on work that demonstrates my data science skills. Check out my 
   Built an ML project using scikit-learn to predict weather temperature using different weather features from kaggle dataset. Achieved 93% accuracy with random forest regressor.  
   *Tech:* Python, Jupyter, Streamlit. 
 
+
+---
 
 ### 📫 Contact Me
 Let's chat about data or collabs - I'm always open to opportunities!  
