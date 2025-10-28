@@ -17,7 +17,7 @@
 ---
 
 ### 📖 About Me
-I'm a dedicated data science learner from Imo State, Nigeria, with a knack for uncovering patterns in messy data. My journey started with Stutern an EduTech Hub in 2022. Outside code, I enjoy watching and playing football. I'm always up for collaborating on open-source projects—let's solve problems together!
+I'm a dedicated data science learner from Imo State, Nigeria, with a knack for uncovering patterns in messy data. My journey started with Stutern an EduTech Hub in 2022. Outside code, I enjoy watching and playing football. I'm always up for collaborating on open-source projects — let's solve problems together!
 
 
 ---
@@ -54,13 +54,17 @@ Proficient in tools that power data-driven decisions. Here's my tech stack:
 - **HND in Agricultural and Bio-Environmental Engineering**  
   Imo State Polytechnic, 3.70/4.0, 2018 
 
-- **Ongoing/Additional:** DeepTech_Ready Upskilling Program (ADAP & DSML Track), 2025 – Facilitator].
+- **Ongoing:** Facilitator - DeepTech_Ready Upskilling Program (ADAP & DSML Track), 2025.
 
 
 ---
 ### 📜 Certifications
-- **Stutern Certificate** (2024) – Focused on Python for Data Science and ML, SQL for Database Management.  
-- **ALX Certificate** (2025) – Covered Python, ML algorithms, and capstone projects.  
+- **Stutern Certificate** (2022) – Focused on Python for Data Science and ML, SQL for Database Management.
+- **Udemy Certificate** (2023) – Focused on Machine Learning Projects.
+- **Udemy Certificate** (2023) – Focused on Practical SQL with PostgreSQL and MySQL.
+- **ALX Certificate** (2024) – Covered Python, ML algorithms, and capstone projects.
+- **Coursera Certificate** (2024) – Covered Machine Learning and Deep Learning algorithms.
+- **LinkedIn Certificate** (2025) – Focused on Mastery MS Excel for Data Analysis and Visualization.
 
 
 ---
