@@ -13,11 +13,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Placidus-Ali&theme=radical" alt="Streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Placidus-Ali&show_icons=true&theme=radical&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Placidus-Ali&theme=radical"/>
-</div>
-
 ---
 
 ### 📖 About Me
